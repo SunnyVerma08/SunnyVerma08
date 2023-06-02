@@ -20,3 +20,9 @@ These technologies are the foundation of my development stack, and I utilize the
 
 
 
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in//skv0806/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/skv0806/" height="30" width="40" /></a>
+</p>
